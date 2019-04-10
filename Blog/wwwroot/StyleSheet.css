@@ -1,0 +1,57 @@
+﻿body {
+    background-image: url('images/back2.jpg');
+}
+
+div {
+    max-width: 800px;
+    margin: auto;
+    height: 100%;
+    padding: 10px;
+    background-image: url('images/back3.jpg');
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+}
+
+label {
+    color: cornflowerblue;
+    font-family: 'Comic Sans MS';
+}
+
+a:link, a:visited {
+    background-color: cornflowerblue;
+    color: white;
+    padding: 3px 20px;
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+    border-radius: 8px;
+}
+
+p {
+    color: cornflowerblue;
+    font-family: 'Comic Sans MS';
+    font-style: oblique;
+    font-weight: bold;
+}
+
+h4 {
+    color: cornflowerblue;
+    font-family: 'Comic Sans MS';
+    text-shadow: 2px 2px #000000;
+}
+
+li {
+    color:black;
+    font-family: 'Comic Sans MS';
+}
+
+.p2 {
+    color: black;
+    font-family: 'Comic Sans MS';
+    font-weight: bold;
+}
